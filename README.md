@@ -1,6 +1,9 @@
 ## Punchbak Simulation with OpenGL
 In this project a basic punchbag simulation is created with OpenGL.
 
+![](https://raw.githubusercontent.com/cornetto/PunchbagOpenGL/master/wiki/punchbag-simulator.jpg)
+
+
 ### Specifications
 * In the environment, there is a punchbag and two arms that moves with the camera on a large rectangular ground.
 
