@@ -26,6 +26,7 @@ In this project a basic punchbag simulation is created with OpenGL.
 
 ### Compile and Run
 With the help of makefile, you can build and run code with the following lines:
-> $ make
-
-> $ ./punchbag
+```
+make
+./punchbag
+```
