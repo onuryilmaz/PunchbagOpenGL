@@ -1,7 +1,7 @@
 ## Punchbak Simulation with OpenGL
 In this project a basic punchbag simulation is created with OpenGL.
 
-![](https://raw.githubusercontent.com/cornetto/PunchbagOpenGL/master/wiki/punchbag-simulator.jpg)
+![](img/punchbag-simulator.jpg)
 
 
 ### Specifications
